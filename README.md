@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![HenriqueFMA's Stats](https://github-readme-stats.vercel.app/api?username=HenriqueFMA&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
-![HenriqueFMA's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HenriqueFMA&theme=midnight-purple&hide_border=false)
-![HenriqueFMA's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFMA&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+### Hi there 👋
 
+![HenriqueFMA's Stats](https://github-readme-stats.vercel.app/api?username=HenriqueFMA&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&width=500)
+![HenriqueFMA's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HenriqueFMA&theme=midnight-purple&hide_border=false&width=500)
+![HenriqueFMA's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFMA&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact&width=500)

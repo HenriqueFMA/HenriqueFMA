@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou Henrique Machado!
 
-Desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Sempre buscando transformar ideias em soluções reais.
-
 ---
 
 ## 🌐 Contato

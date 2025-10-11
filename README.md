@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Henrique Machado
+# 👋 Olá! Eu sou Henrique Furtado
 
 Sou um desenvolvedor apaixonado por tecnologia, com foco em soluções criativas, robustas e funcionais. Atualmente estudo Ciência da Computação e participo de projetos de extensão, além de atuar como mentor em lógica de programação e robótica educacional.
 

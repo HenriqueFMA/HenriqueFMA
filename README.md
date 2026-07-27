@@ -37,7 +37,6 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em soluções criativas
 ---
 
 ## 📊 GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HenriqueFMA&theme=midnight-purple&hide_border=false&show_icons=true" alt="GitHub Stats" />

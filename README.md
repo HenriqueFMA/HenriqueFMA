@@ -38,11 +38,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em soluções criativas
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueFMA&theme=midnight-purple&hide_border=false&show_icons=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueFMA&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
-  <br />
+[![GitHub Streak](https://streak-stats.demolab.com?user=HenriqueFMA&theme=dark)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFMA&theme=midnight-purple&hide_border=false&layout=compact" alt="Top Langs" />
 </p>
 
